@@ -2,11 +2,14 @@
 
 My github page is very *stylish*, and displays my ~~sub-par~~ **amazing** programming skills.
 
+
 Here is one of my favorite jokes:
 > Why do you need glasses if you can C#?
 
+
 Here is one of my favorite links:
 [Nyan Cat](https://www.youtube.com/watch?v=QH2-TGUlwu4)
+
 
 I put this code here so I can copy it later:
 ```
@@ -15,6 +18,7 @@ for (int i = 0; i < LENGTH; ++i>) {
     printf("hello #[%d]", i);
 }
 ```
+
 
 Oh no! I accidentally copied Palpatine's speech from ROtS.
 Quick use this **Section Link** to skip it: [Skip](https://github.com/TristonBabers/GitHubPages-Test/blob/main/index.md#skip-the-speech)
@@ -45,30 +49,4 @@ Here is an **Ordered List**:
 4. **Ordered**
 5. **List**
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ALSO: Here is the folder with my screenshots: [SCreenshot_Folder](screenshots/)
