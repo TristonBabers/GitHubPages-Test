@@ -18,7 +18,9 @@ for (int i = 0; i < LENGTH; ++i>) {
     printf("hello #[%d]", i);
 }
 ```
-
+# Build settings
+markdown: kramdown
+theme: Hacker
 
 Oh no! I accidentally copied Palpatine's speech from ROtS.
 Quick use this **Section Link** to skip it: [Skip](https://tristonbabers.github.io/GitHubPages-Test/#skip-the-speech)
