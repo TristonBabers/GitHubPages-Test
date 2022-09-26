@@ -48,7 +48,7 @@ Here is an **Ordered List**:
 4. **Ordered**
 5. **List**
 
-ALSO: Here is the folder with my screenshots: [SCreenshot_Folder](screenshots/)
+ALSO: Here is the folder with my screenshots: [SCreenshot_Folder](https://github.com/TristonBabers/GitHubPages-Test/tree/main/screenshots)
 <pre>
 
 
